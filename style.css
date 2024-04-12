@@ -1,0 +1,92 @@
+
+.cabeçalho{
+   display: flex;
+  margin: -1%;
+   justify-content:space-between;
+   background-color: gray
+
+}
+.img{
+   width: 25%;
+justify-content: right;
+}
+.imgs{
+   width: 20%;
+   position: absolute;
+   top: 15 ;
+   left: 15;
+}
+
+
+.mf{
+   width: 30%;
+   position: relative;
+   left: 30%;
+}
+
+.deer {
+   width: 30%;
+   position: relative;
+   left: 30%;
+   margin-top: 1%;
+}
+
+.brabo{
+      grid-template-columns: auto;
+   }
+  
+   .blz{
+      background-color: rgb(143, 229, 229);
+      margin: -1%;
+     }
+  
+     .Marcas{
+      position: absolute;
+      left: 10%;
+      margin-top: -44%;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+  
+   .C{
+      position: absolute;
+      left: 20%;
+      margin-top: -45%;
+      color: red;
+   }
+ 
+   .N{
+      position: absolute;
+      left: 35%;
+      margin-top: -45%;
+     color: dodgerblue
+
+   }
+  
+   .J{
+      position: absolute;
+      left: 49%;
+      margin-top: -45%;
+     color: rgb(10, 116, 10);
+
+   }
+  
+   .V{
+      position: absolute;
+      left: 27%;
+      margin-top: -45%;
+      color:yellow
+   }
+   .tit{
+      position: relative;
+      left: 2%;
+   }
+   .t1{
+      position: relative;
+      left: 12%;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+   }
+   .t2{
+      position: relative;
+      left: 10%;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
